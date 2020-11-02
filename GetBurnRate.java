@@ -1,4 +1,6 @@
 import java.io.*;
+// This is a small change.
+// another change
 
 public class GetBurnRate{
   public static void main(String[] args){
